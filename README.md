@@ -1,5 +1,3 @@
-# my first GitHub csv test
-
 ## 版本库地址
 支持三种访问协议：
 * HTTP协议: `https://github.com/buptdpy/first.git` 。
